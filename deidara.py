@@ -135,4 +135,4 @@ async def art(ctx):
 
 
 
-bot.run('ODEyMDUxNjQwNzYwNzk1MTM2.YC7IBg.xj4E2ihQoAC1Six8ojqtRi_E6Fg')
+bot.run('"add token here ')
